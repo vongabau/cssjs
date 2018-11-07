@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/AV7vaj' target='_blank'><img src='http://gzonevn.net/image/cache/catalog/12-500x500.jpg' width='500px'/><br/>Máy Tính Làm Modem</a>. Bootrom Game Server. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://gzonevn.net/index.php?route=product/product&product_id=52' target='_blank'><img src='http://gzonevn.net/image/cache/catalog/12-500x500.jpg' width='500px'/><br/>Máy Tính Làm Modem</a>. Bootrom Game Server. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
