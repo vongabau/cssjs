@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://http://hqn.vn';
+	var url_popup = 'http://hqn.vn';
 
       //<![CDATA[
-	  // var url_ppp = 'http://http://hqn.vn';
+	  // var url_ppp = 'http://hqn.vn';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
